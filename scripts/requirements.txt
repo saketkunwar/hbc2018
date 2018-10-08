@@ -1,0 +1,7 @@
+xgboost==0.80
+pyproj==1.9.5.1
+Shapely==1.6.2.post1
+numpy==1.13.0
+tqdm==4.23.0
+pandas==0.21.1
+scikit_learn==0.19.2
