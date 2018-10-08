@@ -1,5 +1,5 @@
 # hbc2018
-Solution To Human Behavior Challenge 2018.
+Solution To Human Behavior Challenge 2018(https://competitions.codalab.org/competitions/17401)
 The necessary compition data are in train and test directory.
 
 cd scripts
