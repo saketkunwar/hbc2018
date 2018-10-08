@@ -1,5 +1,5 @@
 # hbc2018
-Solution To Human Behavior Challenge 2018
+Solution To Human Behavior Challenge 2018.
 The necessary compition data are in train and test directory.
 
 cd scripts
@@ -20,3 +20,7 @@ cd scripts
 
 5. Retest using augmented training data from step 3 but retrain the classifiers.
    python main.py --execute test --indir ../output/ --retrain True
+
+
+TODO:
+Link to paper describing the methods and confusion matrix
