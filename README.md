@@ -16,7 +16,7 @@ cd scripts
    python main.py --execute train --indir ../output/ 
 
 4. Retest if required, provided the augmented training data and classifiers have been generated. i.e from step in 3
-   python main.py --execute test --indir ../example_run/
+   python main.py --execute test --indir ../output/
 
 5. Retest using augmented training data from step 3 but retrain the classifiers.
    python main.py --execute test --indir ../output/ --retrain True
